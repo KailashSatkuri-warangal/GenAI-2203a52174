@@ -27,11 +27,11 @@ The repository is organized to ensure a smooth experience, from data processing 
 
 ### 3.1 Housing Dataset 🏠
 - **Link**: [Housing Data Notebook](https://github.com/KailashSatkuri-warangal/GenAI-2203a52174/blob/main/housing.ipynb)
-- **Description**: This dataset includes various features influencing housing prices. The analysis focuses on predicting the price of a house using these features.
+- **Description**: This dataset includes various features influencing housing prices. The analysis focuses on predicting the deep learning **Back Propagation** using these features.
 
 ### 3.2 Tesla Stock Dataset 📈
 - **Link**: [Tesla Stock Notebook](https://github.com/KailashSatkuri-warangal/GenAI-2203a52174/blob/main/GenAI_1.ipynb)
-- **Description**: This dataset tracks Tesla's stock prices over time. The goal is to predict future stock prices based on historical data.
+- **Description**: This dataset tracks Tesla's stock prices over time. The goal is deep learning **Back Propagation** based on historical data.
 
 ## 4. Installation 🛠️
 
